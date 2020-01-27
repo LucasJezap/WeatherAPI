@@ -1,0 +1,34 @@
+https://api.openweathermap.org/data/2.5/forecast?q=Krakow&appid=99ee4197968efacdb5fbb1b28f73543e
+https://api.openweathermap.org/data/2.5/weather?q=Krakow&appid=99ee4197968efacdb5fbb1b28f73543e
+https://api.openweathermap.org/data/2.5/weather?q=Sydney&appid=99ee4197968efacdb5fbb1b28f73543e
+https://api.openweathermap.org/data/2.5/box/city?bbox=19,50,21,52,10&appid=99ee4197968efacdb5fbb1b28f73543e
+https://api.openweathermap.org/data/2.5/forecast?q=Konskie&appid=99ee4197968efacdb5fbb1b28f73543e
+https://api.openweathermap.org/data/2.5/forecast?q=Radomsko&appid=99ee4197968efacdb5fbb1b28f73543e
+https://api.openweathermap.org/data/2.5/forecast?q=Jedrzejow&appid=99ee4197968efacdb5fbb1b28f73543e
+https://api.openweathermap.org/data/2.5/forecast?q=Opoczno&appid=99ee4197968efacdb5fbb1b28f73543e
+https://api.openweathermap.org/data/2.5/forecast?q=Kielce&appid=99ee4197968efacdb5fbb1b28f73543e
+https://api.openweathermap.org/data/2.5/forecast?q=Piotrkow Trybunalski&appid=99ee4197968efacdb5fbb1b28f73543e
+https://api.openweathermap.org/data/2.5/forecast?q=Tomaszow Mazowiecki&appid=99ee4197968efacdb5fbb1b28f73543e
+https://api.openweathermap.org/data/2.5/forecast?q=Belchatow&appid=99ee4197968efacdb5fbb1b28f73543e
+https://api.openweathermap.org/data/2.5/forecast?q=Skarzysko-Kamienna&appid=99ee4197968efacdb5fbb1b28f73543e
+https://api.openweathermap.org/data/2.5/forecast?q=Czestochowa&appid=99ee4197968efacdb5fbb1b28f73543e
+https://api.openweathermap.org/data/2.5/forecast?q=Myszkow&appid=99ee4197968efacdb5fbb1b28f73543e
+https://api.openweathermap.org/data/2.5/forecast?q=Zawiercie&appid=99ee4197968efacdb5fbb1b28f73543e
+https://api.openweathermap.org/data/2.5/forecast?q=Busko-Zdroj&appid=99ee4197968efacdb5fbb1b28f73543e
+https://api.openweathermap.org/data/2.5/forecast?q=Olkusz&appid=99ee4197968efacdb5fbb1b28f73543e
+https://api.openweathermap.org/data/2.5/forecast?q=Pabianice&appid=99ee4197968efacdb5fbb1b28f73543e
+https://api.openweathermap.org/data/2.5/forecast?q=Rawa Mazowiecka&appid=99ee4197968efacdb5fbb1b28f73543e
+https://api.openweathermap.org/data/2.5/forecast?q=Lask&appid=99ee4197968efacdb5fbb1b28f73543e
+https://api.openweathermap.org/data/2.5/forecast?q=Lodz&appid=99ee4197968efacdb5fbb1b28f73543e
+https://api.openweathermap.org/data/2.5/forecast?q=Jaworzno&appid=99ee4197968efacdb5fbb1b28f73543e
+https://api.openweathermap.org/data/2.5/forecast?q=Zgierz&appid=99ee4197968efacdb5fbb1b28f73543e
+https://api.openweathermap.org/data/2.5/forecast?q=Chrzanow&appid=99ee4197968efacdb5fbb1b28f73543e
+https://api.openweathermap.org/data/2.5/forecast?q=Skierniewice&appid=99ee4197968efacdb5fbb1b28f73543e
+https://api.openweathermap.org/data/2.5/forecast?q=Katowice&appid=99ee4197968efacdb5fbb1b28f73543e
+https://api.openweathermap.org/data/2.5/forecast?q=Glowno&appid=99ee4197968efacdb5fbb1b28f73543e
+https://api.openweathermap.org/data/2.5/forecast?q=Ozorkow&appid=99ee4197968efacdb5fbb1b28f73543e
+https://api.openweathermap.org/data/2.5/forecast?q=Tarnow&appid=99ee4197968efacdb5fbb1b28f73543e
+https://api.openweathermap.org/data/2.5/uvi/forecast?lat=20&lon=30&appid=99ee4197968efacdb5fbb1b28f73543e
+https://api.openweathermap.org/data/2.5/uvi/forecast?lat=40&lon=20&appid=99ee4197968efacdb5fbb1b28f73543e
+https://api.openweathermap.org/data/2.5/uvi/forecast?lat=25&lon=25&appid=99ee4197968efacdb5fbb1b28f73543e
+https://api.openweathermap.org/data/2.5/forecast?q=Warszawa&appid=99ee4197968efacdb5fbb1b28f73543e
